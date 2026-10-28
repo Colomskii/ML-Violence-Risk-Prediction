@@ -1,0 +1,44 @@
+# Confidential datasets
+*.xlsx
+*.xls
+*.parquet
+*.feather
+*.pkl
+*.pickle
+*.npy
+*.npz
+
+# Trained models and checkpoints
+*.h5
+*.hdf5
+*.keras
+*.weights.h5
+*.ckpt
+*.pt
+*.pth
+*.safetensors
+models/
+checkpoints/
+
+# Secrets
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+
+# Python and Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# macOS
+.DS_Store
+__MACOSX/
+._*
+
+# Temporary files
+*.tmp
+*.bak
