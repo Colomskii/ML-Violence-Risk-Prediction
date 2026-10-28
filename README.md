@@ -15,7 +15,6 @@ The full dissertation provides the research background, literature review, data 
 
 **[Read the full dissertation (PDF)](Investigation%20MLM%20and%20Crisis%20Prevention.pdf)**
 
-> If the PDF is renamed before publication, update the link above to match its final repository filename.
 
 ## Research objectives
 
