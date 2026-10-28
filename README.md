@@ -13,7 +13,7 @@ The work explores a potential early-warning approach to support, rather than rep
 
 The full dissertation provides the research background, literature review, data preparation methodology, model development, evaluation, explainability analyses, clinical discussion, limitations, and conclusions.
 
-**[Read the full dissertation (PDF)](Investigation%20MLM%20and%20Crisis%20Prevention%20UP2302645.docx-2.pdf)**
+**[Read the full dissertation (PDF)](Investigation%20MLM%20and%20Crisis%20Prevention.pdf)**
 
 > If the PDF is renamed before publication, update the link above to match its final repository filename.
 
